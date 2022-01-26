@@ -1,5 +1,5 @@
 # Minesweeper
-Recursion algorithm training (I guess)
+Recursion algorithm practice
 - HTML
 - CSS
 - JavaScript
